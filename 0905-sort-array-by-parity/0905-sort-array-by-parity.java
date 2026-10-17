@@ -1,5 +1,5 @@
 class Solution {
-    public static int[] sortArrayByParity(int[] nums) {
+    public  int[] sortArrayByParity(int[] nums) {
 
         int i=0;
         int j=0;
